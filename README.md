@@ -13,7 +13,7 @@ A simple message board application built with Node.js, Express, and EJS.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/devangnpm/mini-message-board.git
+   git clone https://github.com/devangnpm/message-board.git
    cd mini-message-board
    ```
 
